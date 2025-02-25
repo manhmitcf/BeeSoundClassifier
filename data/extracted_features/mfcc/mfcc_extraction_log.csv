@@ -1,0 +1,9 @@
+Bộ,Tập,Hệ số MFCC,n_fft,hop_length,X_file_path,y_file_path
+0,train,80,1024,256,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_X_nfft1024_hop256.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_y_nfft1024_hop256.npy
+0,test,80,1024,256,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_X_nfft1024_hop256.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_y_nfft1024_hop256.npy
+1,train,80,1024,512,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_X_nfft1024_hop512.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_y_nfft1024_hop512.npy
+1,test,80,1024,512,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_X_nfft1024_hop512.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_y_nfft1024_hop512.npy
+2,train,80,2048,512,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_X_nfft2048_hop512.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_y_nfft2048_hop512.npy
+2,test,80,2048,512,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_X_nfft2048_hop512.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_y_nfft2048_hop512.npy
+3,train,80,2048,1024,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_X_nfft2048_hop1024.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\train_y_nfft2048_hop1024.npy
+3,test,80,2048,1024,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_X_nfft2048_hop1024.npy,C:\Users\manhm\Desktop\BeeSoundClassifier\data\extracted_features\mfcc\test_y_nfft2048_hop1024.npy

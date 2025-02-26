@@ -1,0 +1,5 @@
+numofMFCC,n_fft,Hop_length,Best_hyperparameters,test_accuracy,macro_f1,time
+13,2048,1024,"{'subsample': 0.7, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.05, 'colsample_bytree': 1.0}",0.8094202898550724,0.7608071612921474,9.598729610443115
+20,2048,1024,"{'subsample': 0.7, 'n_estimators': 100, 'max_depth': 5, 'learning_rate': 0.01, 'colsample_bytree': 0.8}",0.8155797101449276,0.7653104083093286,13.692915201187134
+40,2048,1024,"{'subsample': 0.7, 'n_estimators': 100, 'max_depth': 5, 'learning_rate': 0.01, 'colsample_bytree': 0.8}",0.8141304347826087,0.7618280121606086,27.39447569847107
+80,2048,1024,"{'subsample': 0.7, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.05, 'colsample_bytree': 1.0}",0.8155797101449276,0.7670942606985912,56.807910680770874

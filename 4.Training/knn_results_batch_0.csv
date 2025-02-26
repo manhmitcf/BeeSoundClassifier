@@ -1,0 +1,5 @@
+numofMFCC,n_fft,Hop_length,Best_hyperparameters,test_accuracy,macro_f1,time
+13,1024,256,"{'weights': 'distance', 'n_neighbors': 17, 'metric': 'manhattan'}",0.842391304347826,0.8095118805430346,6.371915817260742
+20,1024,256,"{'weights': 'distance', 'n_neighbors': 17, 'metric': 'manhattan'}",0.8481884057971014,0.8130659107920515,2.3814034461975098
+40,1024,256,"{'weights': 'uniform', 'n_neighbors': 14, 'metric': 'euclidean'}",0.8507246376811595,0.8141051824063904,2.861518144607544
+80,1024,256,"{'weights': 'uniform', 'n_neighbors': 14, 'metric': 'euclidean'}",0.8594202898550725,0.8252948809737083,4.8163957595825195
